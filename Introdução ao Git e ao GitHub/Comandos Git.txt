@@ -2,6 +2,8 @@ git init - Cria um repostório no Git
 git add - move o arquivo para espera de alguma ação
 git commit - assembly nas alterações
 git push - empurra repositório ao GitHub
+git remote add - adiciona alias ao repositorio remoto
+git remote -v - Lista os repositorios remotos cadastrados
 
 
 ls - lista as pastas dentro de um diretorio
