@@ -1,0 +1,3 @@
+git init - Cria um repostório no Git
+git add - move o arquivo para espera de alguma ação
+git commit - assembly nas alterações
