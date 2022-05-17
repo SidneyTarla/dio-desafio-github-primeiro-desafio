@@ -1,3 +1,12 @@
 git init - Cria um repostório no Git
 git add - move o arquivo para espera de alguma ação
 git commit - assembly nas alterações
+
+
+ls - lista as pastas dentro de um diretorio
+ctrl+L - clear
+mkdir - cria uma pasta
+echo - printa um texto no terminal
+echo > "nome do arquivo.txt" cria um arquivo em txt
+rmdir - remove repositórios
+cd - mudar o diretório (entra numa pasta)
