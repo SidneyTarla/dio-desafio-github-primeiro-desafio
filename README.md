@@ -1,6 +1,6 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Repósitorio criado para o desafio de projeto.
+# Bootcamp DIO
+Criado para anotações de estudos.
 
 ## Liks úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Perfil GitHub](https://github.com/SidneyTarla)
 
