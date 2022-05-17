@@ -14,3 +14,6 @@ echo - printa um texto no terminal
 echo > "nome do arquivo.txt" cria um arquivo em txt
 rmdir - remove repositórios
 cd - mudar o diretório (entra numa pasta)
+
+
+TESTE
