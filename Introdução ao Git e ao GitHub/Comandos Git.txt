@@ -4,7 +4,6 @@ git commit - assembly nas alterações
 git push - empurra repositório ao GitHub
 git remote add - adiciona alias ao repositorio remoto
 git remote -v - Lista os repositorios remotos cadastrados
-ddsfsd
 
 
 ls - lista as pastas dentro de um diretorio
@@ -14,6 +13,8 @@ echo - printa um texto no terminal
 echo > "nome do arquivo.txt" cria um arquivo em txt
 rmdir - remove repositórios
 cd - mudar o diretório (entra numa pasta)
+<<<<<<< HEAD
 
 
 TESTE
+
